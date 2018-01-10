@@ -1,0 +1,21 @@
+body { 
+    padding-top: 65px; 
+}
+
+.container-fluid {
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+.well {
+	background-color: #fff !important;
+}
+
+
+.font-bold {
+	font-weight: bold !important;
+}
+
+.error {
+    color: #AC514C;
+}
